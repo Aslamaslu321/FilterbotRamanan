@@ -168,7 +168,7 @@ async def start(client, message):
                             [
                                 InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
+                                InlineKeyboardButton('⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -186,7 +186,7 @@ async def start(client, message):
                             [
                                 InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
+                                InlineKeyboardButton('⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -342,7 +342,7 @@ async def start(client, message):
                             [
                                 InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
+                                InlineKeyboardButton('⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -403,7 +403,7 @@ async def start(client, message):
                             [
                                 InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
+                                InlineKeyboardButton('⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -462,7 +462,7 @@ async def start(client, message):
                             [
                                 InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
+                                InlineKeyboardButton('⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
