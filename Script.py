@@ -211,7 +211,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Size ⚙️: {file_size}</b>
+
+<b> ⚡Thanks For Using RAMANAN🤖♥️</b>
+
+<b> Note : <tt>Files Are Not Owned By Us⚠️</tt></b>
+
+<b> [🤖ʀᴀᴍᴀɴᴀɴ ʙᴏᴛ🤖](http://t.me/Cinemalokam071_bot)</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
