@@ -30,9 +30,9 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/cinemalokamramanan"),
                 ],[
-                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")                    
+                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/+rrK46TeoN-5lNjZl")                    
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
@@ -54,9 +54,9 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/cinemalokamramanan"),
                 ],[
-                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")                    
+                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/+rrK46TeoN-5lNjZl")                    
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
@@ -107,9 +107,9 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                   InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣 𝗟𝗜𝗡𝗞", url=f"https://t.me/cinemalokamramanan"),
                 ],[
-                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/ARAKAL_THERAVAD_GROUP_LINKS")                    
+                   InlineKeyboardButton("⭕️ 𝗚𝗘𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗟𝗜𝗡𝗞𝗦 ⭕️", url="https://t.me/+rrK46TeoN-5lNjZl")                    
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
@@ -166,9 +166,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/KingVJ01")                                                                              
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -184,9 +184,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/KingVJ01")                                                                              
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -340,9 +340,9 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/KingVJ01")                                                                              
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -401,9 +401,9 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/KingVJ01")                                                                              
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
@@ -460,9 +460,9 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/ARAKAL_THERAVAD_MOVIES"),
+                                InlineKeyboardButton("👥 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/cinemalokamramanan"),
                             ],[
-                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/KingVJ01")                                                                              
+                                InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/+rrK46TeoN-5lNjZl")                                                                              
                             ]
                         ]
                     )
