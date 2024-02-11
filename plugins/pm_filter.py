@@ -2115,7 +2115,7 @@ async def auto_filter(client, msg, spoll=False):
             await m.delete()
             try:
                if settings['auto_delete']:
-                    await asyncio.sleep(300)
+                    await asyncio.sleep(1)
                     m=await message.reply_text("🔎")
                     await hmm.delete()
                     await message.delete()
@@ -2131,12 +2131,12 @@ async def auto_filter(client, msg, spoll=False):
             await m.delete()
             try:
                 if settings['auto_delete']:
-                    await asyncio.sleep(1)
+                    await asyncio.sleep()
                     await fek.delete()
                     await message.delete()
             except KeyError:
                 await save_group_settings(message.chat.id, 'auto_delete', True)
-                await asyncio.sleep(1)
+                await asyncio.sleep()
                 await fek.delete()
                 await message.delete()
     else:
@@ -2144,12 +2144,12 @@ async def auto_filter(client, msg, spoll=False):
         await m.delete()
         try:
             if settings['auto_delete']:
-                await asyncio.sleep(1)
+                await asyncio.sleep()
                 await fuk.delete()
                 await message.delete()
         except KeyError:
             await save_group_settings(message.chat.id, 'auto_delete', True)
-            await asyncio.sleep(1)
+            await asyncio.sleep()
             await fuk.delete()
             await message.delete()
 
